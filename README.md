@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @L23de, I go by Lester IRL, I'm currently a sophomore majoring in Computer Science at Lehigh University
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Lester Huang
+> 3rd Year Computer Science Major/Data Science Minor @ Lehigh University
+
+I'm an aspiring engineer interested in learning the various technologies populating the CS field
+I love paying it forward and hope to do so through programming
+
+Reach me at:
+- Website: [bit.ly/l23de](https://bit.ly/l23de)
+- LinkedIn: [linkedin.com/lesterhuang](https://linkedin.com/lesterhuang)
+- Email: [huangl302d@gmail.com](mailto:huangl302d@gmail.com)
 
 <!---
 L23de/L23de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

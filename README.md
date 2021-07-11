@@ -6,7 +6,7 @@ I love paying it forward and hope to do so through programming
 
 Reach me at:
 - Website: [bit.ly/l23de](https://bit.ly/l23de)
-- LinkedIn: [linkedin.com/lesterhuang](https://linkedin.com/lesterhuang)
+- LinkedIn: [linkedin.com/in/lesterhuang](https://www.linkedin.com/in/lesterhuang)
 - Email: [huangl302d@gmail.com](mailto:huangl302d@gmail.com)
 
 <!---

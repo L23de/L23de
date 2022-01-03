@@ -5,7 +5,7 @@ I'm an aspiring engineer interested in learning the various technologies populat
 I love paying it forward and hope to do so through programming
 
 Reach me at:
-- Website: [bit.ly/l23de](https://bit.ly/l23de)
+- Website: [l23de.github.io](l23de.github.io)
 - LinkedIn: [linkedin.com/in/lesterhuang](https://www.linkedin.com/in/lesterhuang)
 - Email: [huangl302d@gmail.com](mailto:huangl302d@gmail.com)
 

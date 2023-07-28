@@ -1,5 +1,6 @@
 ### Lester Huang
-> Recent Computer Science Major/Data Science Minor Grad @ Lehigh University
+
+> Software Engineer @ Lazarus AI
 
 Learn more about me at [l23de.github.io](https://l23de.github.io)
 
